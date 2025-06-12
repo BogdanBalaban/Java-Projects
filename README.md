@@ -74,8 +74,8 @@ Feel free to fork the repository, open an issue, or submit a pull request.
 
 If you have any questions, feedback, or just want to connect:
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: Bogdan Balaban(https://linkedin.com/in/your-profile)  
+- 📧 Email: bogdanbalaban19@gmail.com
+- 💼 LinkedIn: Bogdan Balaban(https://www.linkedin.com/in/bogdan-balaban-78210736b/)  
 - 🐙 GitHub: BogdanBalaban(https://github.com/BogdanBalaban)
 
 ## 📄 License
